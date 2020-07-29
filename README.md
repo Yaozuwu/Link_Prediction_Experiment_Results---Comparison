@@ -72,52 +72,52 @@ Drug Repurposing Knowledge Graph (DRKG) is a comprehensive biological knowledge 
   - [Yamanishi Y, Kotera M, Moriya Y, et al. DINIES: drug–target interaction network inference engine based on supervised analysis. Nucleic Acids Res 2014;42:W39–45.](<https://doi.org/10.1093/nar/gku337>)
   -
 - **E**-Probabilistic matrix factorization-2013
-  -[Cobanoglu MC, Liu C, Hu F, et al. Predicting drug–target interactions using probabilisticmatrix factorization.J Chem Inf Model 2013;53:3399–409.](<https://pubs.acs.org/doi/pdf/10.1021/ci400219z>)
+  - [Cobanoglu MC, Liu C, Hu F, et al. Predicting drug–target interactions using probabilisticmatrix factorization.J Chem Inf Model 2013;53:3399–409.](<https://pubs.acs.org/doi/pdf/10.1021/ci400219z>)
   -
 - **E**-Matrix factorization-
-  -[Zheng X, Ding H, Mamitsuka H, Zhu S. Collaborative matrix factorization with multiple similarities for predicting drug–target interactions. In: Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining—KDD ’13, 2013, pp. 1025–1033. Chicago, Illinois, USA.](<https://dl.acm.org/doi/abs/10.1145/2487575.2487670>)
+  - [Zheng X, Ding H, Mamitsuka H, Zhu S. Collaborative matrix factorization with multiple similarities for predicting drug–target interactions. In: Proceedings of the 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining—KDD ’13, 2013, pp. 1025–1033. Chicago, Illinois, USA.](<https://dl.acm.org/doi/abs/10.1145/2487575.2487670>)
   -
-  -[Ezzat A, Zhao P,WuM, et al. Drug–target interaction prediction with graph regularized matrix factorization. IEEE/ACM Trans Comput Biol Bioinform 2017;14:646–56.](<https://ieeexplore.ieee.org/abstract/document/7407341>)
+  - [Ezzat A, Zhao P,WuM, et al. Drug–target interaction prediction with graph regularized matrix factorization. IEEE/ACM Trans Comput Biol Bioinform 2017;14:646–56.](<https://ieeexplore.ieee.org/abstract/document/7407341>)
   -
-  -[Shen Z, Zhang Y-H, Han K, et al. miRNA-disease association prediction with collaborative matrix factorization. Complexity 2017;2017:1–9.](<https://www.hindawi.com/journals/complexity/2017/2498957/>)
+  - [Shen Z, Zhang Y-H, Han K, et al. miRNA-disease association prediction with collaborative matrix factorization. Complexity 2017;2017:1–9.](<https://www.hindawi.com/journals/complexity/2017/2498957/>)
   -
-  -[Zeng X, Ding N, Rodríguez-Patón A, Zou Q. Probability-based collaborative filtering model for predicting gene–disease associations. BMC Med Genomics 2017;10(5):76.](<https://link.springer.com/article/10.1186/s12920-017-0313-y>)
+  - [Zeng X, Ding N, Rodríguez-Patón A, Zou Q. Probability-based collaborative filtering model for predicting gene–disease associations. BMC Med Genomics 2017;10(5):76.](<https://link.springer.com/article/10.1186/s12920-017-0313-y>)
   -
--**E**-LE, SVD, PLS-2017
-  -[Ezzat A, Wu M, Li X-L, et al. Drug–target interaction prediction using ensemble learning and dimensionality reduction. Methods 2017;129:81–8.](<https://doi.org/10.1016/j.ymeth.2017.05.016>)
+- **E**-LE, SVD, PLS-2017
+  - [Ezzat A, Wu M, Li X-L, et al. Drug–target interaction prediction using ensemble learning and dimensionality reduction. Methods 2017;129:81–8.](<https://doi.org/10.1016/j.ymeth.2017.05.016>)
   -
- -**E**-DCA-
-  -[Luo Y, Zhao X, Zhou J, et al. A network integration approach for drug–target interaction prediction and computational drug repositioning from heterogeneous information. Nat Commun 2017;8:573.](<https://www.nature.com/articles/s41467-017-00680-8>)
+ - **E**-DCA-
+  - [Luo Y, Zhao X, Zhou J, et al. A network integration approach for drug–target interaction prediction and computational drug repositioning from heterogeneous information. Nat Commun 2017;8:573.](<https://www.nature.com/articles/s41467-017-00680-8>)
   -
- -**E**-DeepWalk-
-  -[Zong N, Kim H, Ngo V, et al. Deep mining heterogeneous networks of biomedical linked data to predict novel drug–target associations. Bioinformatics 2017;33:2337–44.](<https://doi.org/10.1093/bioinformatics/btx160>)
+ - **E**-DeepWalk-
+  - [Zong N, Kim H, Ngo V, et al. Deep mining heterogeneous networks of biomedical linked data to predict novel drug–target associations. Bioinformatics 2017;33:2337–44.](<https://doi.org/10.1093/bioinformatics/btx160>)
   -
-  -[Li G, Luo J, Xiao Q, et al. Predicting microRNA-disease associations using network topological similarity based on DeepWalk. IEEE Access 2017;5:24032–9.](<https://ieeexplore.ieee.org/abstract/document/8085107>)
+  - [Li G, Luo J, Xiao Q, et al. Predicting microRNA-disease associations using network topological similarity based on DeepWalk. IEEE Access 2017;5:24032–9.](<https://ieeexplore.ieee.org/abstract/document/8085107>)
   -
- -**E**-Modified DeepWalk-2017
-  -[Alshahrani M, Khan MA,Maddouri O, et al. Neuro-symbolic representation learning on biological knowledge graphs. Bioinformatics 2017;33:2723–30.](<https://doi.org/10.1093/bioinformatics/btx275>)
+ - **E**-Modified DeepWalk-2017
+  - [Alshahrani M, Khan MA,Maddouri O, et al. Neuro-symbolic representation learning on biological knowledge graphs. Bioinformatics 2017;33:2723–30.](<https://doi.org/10.1093/bioinformatics/btx275>)
   -
 
- -**E**-Eigenvalue decomposition and matrix factorization-2015
-  -[DaiW, Liu X, Gao Y, et al. Matrix factorization-based prediction of novel drug indications by integrating genomic space. Comput Math Methods Med 2015;2015:275045.](<https://www.hindawi.com/journals/cmmm/2015/275045/>)
+ - **E**-Eigenvalue decomposition and matrix factorization-2015
+  - [DaiW, Liu X, Gao Y, et al. Matrix factorization-based prediction of novel drug indications by integrating genomic space. Comput Math Methods Med 2015;2015:275045.](<https://www.hindawi.com/journals/cmmm/2015/275045/>)
   -
   
- -**E**-Modified LINE-2017
-  -[Wang P, Hao T, Yan J, et al. Large-scale extraction of drug–disease pairs from the medical literature. J Assoc Inf Sci Technol 2017;68:2649–61.](<https://doi.org/10.1002/asi.23876>)
+ - **E**-Modified LINE-2017
+  - [Wang P, Hao T, Yan J, et al. Large-scale extraction of drug–disease pairs from the medical literature. J Assoc Inf Sci Technol 2017;68:2649–61.](<https://doi.org/10.1002/asi.23876>)
   -
--**E**-Extended RESCAL-2016
-  -[Zitnik M, Zupan B. Collective pairwise classification for multi-way analysis of disease and drug data. Pac Symp Biocomput 2016;21:81–92.](<https://doi.org/10.1142/9789814749411_0008>)
+- **E**-Extended RESCAL-2016
+  - [Zitnik M, Zupan B. Collective pairwise classification for multi-way analysis of disease and drug data. Pac Symp Biocomput 2016;21:81–92.](<https://doi.org/10.1142/9789814749411_0008>)
   -
--**E**-TransH and HolE-2017
-  -[Abdelaziz I, Fokoue A, Hassanzadeh O, et al. Large-scale structural and textual similarity-based mining of knowledge graph to predict drug–drug interactions. Web Semant 2017;44:104–17.](<https://doi.org/10.1016/j.websem.2017.06.002>)
-  -
- 
--**E**-Extended TransH-2017
-  -[Wang M, Chen Y, Qian B, et al. Predicting rich drug–drug interactions via biomedical knowledge graphs and text jointly embedding, 2017, arXiv preprint arXiv:171208875.](<https://arxiv.org/abs/1712.08875>)
+- **E**-TransH and HolE-2017
+  - [Abdelaziz I, Fokoue A, Hassanzadeh O, et al. Large-scale structural and textual similarity-based mining of knowledge graph to predict drug–drug interactions. Web Semant 2017;44:104–17.](<https://doi.org/10.1016/j.websem.2017.06.002>)
   -
  
--**E**-Isomap-2010
-  -[You Z-H, Lei Y-K, Gui J, et al. Using manifold embedding for assessing and predicting protein interactions from high-throughput experimental data. Bioinformatics 2010;26:2744–51](<https://doi.org/10.1093/bioinformatics/btq510>)
+- **E**-Extended TransH-2017
+  - [Wang M, Chen Y, Qian B, et al. Predicting rich drug–drug interactions via biomedical knowledge graphs and text jointly embedding, 2017, arXiv preprint arXiv:171208875.](<https://arxiv.org/abs/1712.08875>)
+  -
+ 
+- **E**-Isomap-2010
+  - [You Z-H, Lei Y-K, Gui J, et al. Using manifold embedding for assessing and predicting protein interactions from high-throughput experimental data. Bioinformatics 2010;26:2744–51](<https://doi.org/10.1093/bioinformatics/btq510>)
   -
 
   
@@ -152,7 +152,7 @@ Drug Repurposing Knowledge Graph (DRKG) is a comprehensive biological knowledge 
   - [Shang, C., Tang, Y., Huang, J., Bi, J., He, X., & Zhou, B. (2019). End-to-End Structure-Aware Convolutional Networks for Knowledge Base Completion. AAAI, 3060–3067.](<https://aaai.org/ojs/index.php/AAAI/article/view/4164>)
   - 
 - **NN**-Deep autoencoder similar to SDNE and DNGR-2018
-  -[Zitnik M, Agrawal M, Leskovec J. Modeling polypharmacy side effects with graph convolutional networks. Bioinformatics 2018. doi:10.1101/258814](<https://doi.org/10.1093/bioinformatics/bty294>)
+  - [Zitnik M, Agrawal M, Leskovec J. Modeling polypharmacy side effects with graph convolutional networks. Bioinformatics 2018. doi:10.1101/258814](<https://doi.org/10.1093/bioinformatics/bty294>)
   -
 
 **Hybird Methods:**
